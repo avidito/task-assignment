@@ -131,3 +131,5 @@ To further increase query performance, several things can be implement:
 3. Run processes on low traffic time. This action will make sure all the resources are focused on ETL processes.
 4. Use index on highly used column.
 5. Use snapshot summary data on daily report to reduce re-calculation on old data.
+
+The flow image can be accessed at [here](./06%20-%20data_automation/data-flow.png).
